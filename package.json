@@ -1,0 +1,17 @@
+{
+  "name": "casino-virtual",
+  "version": "1.0.0",
+  "description": "Tiger Vault - Ganhe Moedas Agora",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static HTML project, no build needed'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": ["casino", "slot-machine", "game"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
